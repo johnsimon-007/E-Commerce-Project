@@ -8,7 +8,8 @@ Backend API: https://e-commerce-project-3txv.onrender.com
 Products Endpoint:
 https://e-commerce-project-3txv.onrender.com/api/products
 
-
+GitHub Repository link:
+https://github.com/johnsimon-007/E-Commerce-Project.git
 
 ## Features
 
@@ -41,3 +42,15 @@ Backend:
 Deployment:
 - Vercel
 - Render
+
+
+SCREENSHOTS:
+
+<img width="1356" height="767" alt="image" src="https://github.com/user-attachments/assets/7421461e-57f7-4d92-b8e9-f1498dd9758c" />
+
+<img width="1362" height="767" alt="image" src="https://github.com/user-attachments/assets/970488b6-df63-416d-b950-4f2568531f1d" />
+
+<img width="1364" height="634" alt="image" src="https://github.com/user-attachments/assets/82d86f85-7f69-4494-9871-ef403dda871a" />
+
+
+
