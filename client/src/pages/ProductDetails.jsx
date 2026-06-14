@@ -12,7 +12,7 @@ function ProductDetails({ cart, setCart }) {
     useEffect(() => {
         const fetchProducts = async () => {
             try {
-                const response = await axios.get(`https://your-app.onrender.com/api/products/${id}`);
+                const response = await axios.get(`https://e-commerce-project-3txv.onrender.com/api/products/${id}`);
                 setProduct(response.data);
                     setLoading(false);
             }
